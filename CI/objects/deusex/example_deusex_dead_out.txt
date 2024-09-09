@@ -1,0 +1,182 @@
+Acrobatic Mikiala 15.70 9.50 9.50 6.50 2 The Scorching Cells
+Adama the Fatherly 7.00 19.00 10.00 7.00 0 The Dread Catacombs
+Amethyst the Unimportant 22.85 9.75 19.75 12.75 11 The Tranquil Dungeon
+Ante the Variable 14.50 5.50 9.50 18.70 2 The Scorching Cells
+Ason the Merry 11.25 7.25 12.35 9.25 1 The Shrieking Dungeon
+Asucena the Lazy 31.75 20.75 41.85 30.75 51 The Halls of Eternal Boomer Humour
+Bare Jaris 11.25 8.25 19.25 25.35 1 The Shrieking Dungeon
+Berlin the Feminine 14.50 18.10 10.50 11.50 6 The Mighty Grotto
+Big Dinorah 17.25 8.25 18.25 23.15 9 Maze of the Hidden Orc
+Bite-sized Lynnae 5.25 16.25 8.25 25.35 1 The Shrieking Dungeon
+Bossy Jihad 28.60 16.00 23.00 14.00 16 Pits of the Mystic Knight
+Brittiny the Downright 18.05 12.75 12.75 14.75 3 The Thundering Chambers
+Bruised Christophr 5.25 20.35 9.25 20.25 1 The Shrieking Dungeon
+Cadi the Short 5.25 13.25 15.35 10.25 1 The Shrieking Dungeon
+Caine the Bumpy 8.25 20.35 13.25 18.25 1 The Shrieking Dungeon
+Carolanne the Offbeat 14.00 28.20 12.00 13.00 12 Lair of the Burning Mage
+Charlese the Ambitious 10.25 12.25 6.25 19.35 1 The Shrieking Dungeon
+Christiaan the Fickle 47.50 38.50 25.50 37.50 70 Delves of the Unknown Warrior
+Coletta the Cuddly 5.25 20.25 21.35 6.25 1 The Shrieking Dungeon
+Contessa the Vain 8.25 5.25 17.35 11.25 1 The Shrieking Dungeon
+Cool Anise 10.25 5.25 7.25 18.35 1 The Shrieking Dungeon
+Cruz the Angry 12.25 13.25 24.35 17.25 1 The Shrieking Dungeon
+Damp Pennie 12.25 19.25 23.35 16.25 1 The Shrieking Dungeon
+Danniell the Trusting 15.05 5.75 13.75 5.75 3 The Thundering Chambers
+Danyel the Dependable 9.25 11.25 15.25 20.35 1 The Shrieking Dungeon
+Danyele the Anchored 9.25 22.25 25.35 19.25 1 The Shrieking Dungeon
+Darvis the Revolving 12.25 12.25 17.25 23.35 1 The Shrieking Dungeon
+Deja the Tall 15.50 21.10 9.50 12.50 6 The Mighty Grotto
+Devona the Thick 11.25 13.25 10.25 20.35 1 The Shrieking Dungeon
+Difficult Markeeta 20.75 16.75 8.75 27.25 15 Maze of the Forgotten Paladin
+Dimpled Rambo 12.25 20.35 14.25 15.25 1 The Shrieking Dungeon
+Distant Ashford 9.25 10.25 17.25 24.35 1 The Shrieking Dungeon
+Donnisha the Comfortable 47.50 35.50 24.50 37.50 70 Delves of the Unknown Warrior
+Dreary Estrellita 15.50 11.50 8.50 17.70 2 The Scorching Cells
+Dreary Neng 7.25 9.25 25.35 16.25 1 The Shrieking Dungeon
+Elated Lucrecia 6.25 18.35 15.25 6.25 1 The Shrieking Dungeon
+Elio the Prime 6.25 21.35 7.25 13.25 1 The Shrieking Dungeon
+Emilee the Spectacular 7.25 15.25 21.25 22.35 1 The Shrieking Dungeon
+Enormous Breda 22.25 26.35 14.25 14.25 21 The Living Dead Catacombs
+Erma the Hot 10.25 12.25 24.35 10.25 1 The Shrieking Dungeon
+Evetta the Little 14.05 7.75 13.75 6.75 3 The Thundering Chambers
+Excellent Adnrea 16.25 12.25 22.15 21.25 9 Maze of the Hidden Orc
+Fancy Brigid 9.25 11.25 5.25 19.35 1 The Shrieking Dungeon
+Fat Lakasha 12.25 29.55 20.25 17.25 13 The Erased Cells
+Felicia the Admirable 21.75 21.75 16.75 27.25 15 Maze of the Forgotten Paladin
+Filthy Lizzie 11.25 5.25 18.25 21.35 1 The Shrieking Dungeon
+Flowery Yanelis 22.75 13.25 10.25 10.25 5 Caverns of the Gentle Widow
+Frail Jerell 20.05 11.75 6.75 13.75 3 The Thundering Chambers
+Frightened Alvina 26.75 18.75 39.85 29.75 51 The Halls of Eternal Boomer Humour
+Gentle Carmin 6.25 13.25 18.35 11.25 1 The Shrieking Dungeon
+Glennis the Baggy 19.25 12.25 22.15 7.25 9 Maze of the Hidden Orc
+Glenny the Bruised 11.25 17.25 20.35 7.25 1 The Shrieking Dungeon
+Grim Conley 31.75 21.75 42.85 21.75 51 The Halls of Eternal Boomer Humour
+Hard Rainy 12.00 9.00 9.00 8.00 0 The Dread Catacombs
+Harmon the Healthy 15.25 8.25 17.15 14.25 9 Maze of the Hidden Orc
+Harsh Lakeidra 11.25 12.25 24.35 5.25 1 The Shrieking Dungeon
+Hilarious Stephan 7.25 9.25 21.35 14.25 1 The Shrieking Dungeon
+Hollie the Corrupt 7.00 19.00 9.00 6.00 0 The Dread Catacombs
+Idolized Hara 5.25 13.25 13.25 20.35 1 The Shrieking Dungeon
+Impartial Travious 22.25 8.25 7.25 25.75 5 Caverns of the Gentle Widow
+Interesting Dontay 6.25 12.25 9.25 19.35 1 The Shrieking Dungeon
+Internal Gurpreet 22.25 18.75 15.75 13.75 15 Maze of the Forgotten Paladin
+Itchy Whittney 13.50 6.50 7.50 14.70 2 The Scorching Cells
+Jaie the Glass 10.25 12.25 14.25 21.35 1 The Shrieking Dungeon
+Jameca the Peppery 12.00 29.20 17.00 9.00 12 Lair of the Burning Mage
+Jaynie the Querulous 9.25 5.25 16.25 19.35 1 The Shrieking Dungeon
+Jeanann the Teeming 31.75 17.75 39.85 25.75 51 The Halls of Eternal Boomer Humour
+Jeanne the Disguised 45.50 31.50 24.50 35.50 70 Delves of the Unknown Warrior
+Jenia the Jumpy 15.50 21.10 13.50 14.50 6 The Mighty Grotto
+Jennette the Studious 7.25 17.25 24.35 17.25 1 The Shrieking Dungeon
+Jestina the Possible 10.25 17.25 21.25 23.35 1 The Shrieking Dungeon
+Joint Zelda 9.25 9.25 9.25 24.35 1 The Shrieking Dungeon
+Juwanda the Wonderful 49.50 33.50 24.50 39.50 70 Delves of the Unknown Warrior
+Kalee the Robust 24.75 10.25 7.25 12.25 5 Caverns of the Gentle Widow
+Kamille the Baggy 11.25 12.25 13.25 24.35 1 The Shrieking Dungeon
+Kawana the Icky 20.05 8.75 5.75 10.75 3 The Thundering Chambers
+Kayron the Jumbo 7.25 17.25 6.25 22.35 1 The Shrieking Dungeon
+Kellina the Taut 11.25 7.25 17.35 10.25 1 The Shrieking Dungeon
+Kiante the Oblong 10.25 17.25 24.35 11.25 1 The Shrieking Dungeon
+Kimberly the Orange 43.50 32.50 23.50 32.50 70 Delves of the Unknown Warrior
+Kwasi the Fine 23.25 18.75 16.75 19.75 15 Maze of the Forgotten Paladin
+Lakina the Pertinent 14.50 15.50 8.50 18.10 6 The Mighty Grotto
+Landa the Trim 12.00 10.00 7.00 10.00 0 The Dread Catacombs
+Lauree the Admirable 46.50 36.50 24.50 26.50 70 Delves of the Unknown Warrior
+Lawerence the Annual 21.75 13.25 11.25 12.25 5 Caverns of the Gentle Widow
+Linda the Infatuated 10.25 20.25 15.25 23.35 1 The Shrieking Dungeon
+Magnus the Necessary 10.25 17.25 6.25 25.35 1 The Shrieking Dungeon
+Maila the Sociable 5.25 15.25 12.25 18.35 1 The Shrieking Dungeon
+Malaka the Entire 11.25 15.25 15.25 19.35 1 The Shrieking Dungeon
+Male Kathelyn 9.25 12.25 22.35 13.25 1 The Shrieking Dungeon
+Marche the Multicolored 7.25 7.25 22.35 12.25 1 The Shrieking Dungeon
+Marissa the Infantile 11.25 17.35 14.25 5.25 1 The Shrieking Dungeon
+Markey the Monumental 11.25 19.25 14.25 22.35 1 The Shrieking Dungeon
+Markise the Exemplary 6.25 5.25 25.35 25.25 1 The Shrieking Dungeon
+Marsheena the Cloudy 12.25 20.35 9.25 19.25 1 The Shrieking Dungeon
+Marshell the Unlucky 6.00 15.00 9.00 12.00 0 The Dread Catacombs
+Marwan the Easy-going 24.75 9.25 12.25 10.25 5 Caverns of the Gentle Widow
+Massive Shundreka 12.00 6.00 7.00 10.00 0 The Dread Catacombs
+Melchizedek the Bubbly 18.15 13.25 17.25 12.25 9 Maze of the Hidden Orc
+Milky Kash 11.00 10.00 7.00 5.00 0 The Dread Catacombs
+Minor Khary 21.75 8.25 9.25 20.25 5 Caverns of the Gentle Widow
+Mixed Shayla 9.25 11.25 8.25 22.35 1 The Shrieking Dungeon
+Murky Rukiya 48.50 27.50 22.50 41.50 70 Delves of the Unknown Warrior
+Na the Rundown 10.25 6.25 15.25 19.35 1 The Shrieking Dungeon
+Naive Mickeal 20.05 12.75 10.75 14.75 3 The Thundering Chambers
+Nasia the Optimal 15.25 29.55 24.25 17.25 13 The Erased Cells
+Nervous Adrea 19.25 13.25 21.15 12.25 9 Maze of the Hidden Orc
+Nunzio the Dramatic 6.25 6.25 23.35 21.25 1 The Shrieking Dungeon
+Nuvia the Standard 5.25 20.25 5.25 22.35 1 The Shrieking Dungeon
+Offensive Demarrio 6.25 5.25 20.35 9.25 1 The Shrieking Dungeon
+Ontario the Frayed 6.25 6.25 24.35 23.25 1 The Shrieking Dungeon
+Ornate Maxie 10.00 5.00 9.00 5.00 0 The Dread Catacombs
+Oval Manoah 15.25 8.25 17.15 13.25 9 Maze of the Hidden Orc
+Patrica the Shrill 9.25 14.25 15.25 25.35 1 The Shrieking Dungeon
+Physical Daniel 10.25 10.25 20.35 9.25 1 The Shrieking Dungeon
+Plaintive Roshni 18.05 10.75 9.75 5.75 3 The Thundering Chambers
+Potable Malak 11.25 14.25 25.35 14.25 1 The Shrieking Dungeon
+Practical Ambreia 48.50 26.50 24.50 40.50 70 Delves of the Unknown Warrior
+Pristine Achary 24.75 9.25 6.25 10.25 5 Caverns of the Gentle Widow
+Quixotic Ranae 9.25 11.25 19.35 12.25 1 The Shrieking Dungeon
+Rayan the Imaginary 8.25 10.25 23.35 16.25 1 The Shrieking Dungeon
+Raychel the Straight 14.25 6.25 13.25 26.75 5 Caverns of the Gentle Widow
+Reena the Sandy 9.00 11.00 9.00 15.00 0 The Dread Catacombs
+Regal Theresa 10.25 11.25 17.35 10.25 1 The Shrieking Dungeon
+Revae the Deep 49.50 32.50 24.50 26.50 70 Delves of the Unknown Warrior
+Revolving Sharicka 22.85 11.75 18.75 9.75 11 The Tranquil Dungeon
+Rhandi the Deafening 9.25 12.25 23.35 16.25 1 The Shrieking Dungeon
+Rich Genny 19.75 16.75 16.75 27.25 15 Maze of the Forgotten Paladin
+Richardo the Yellowish 8.25 13.25 19.35 18.25 1 The Shrieking Dungeon
+Rigid Mcarthur 24.25 12.25 13.25 25.75 5 Caverns of the Gentle Widow
+Ronak the Nimble 14.50 22.10 12.50 8.50 6 The Mighty Grotto
+Rori the Woozy 16.50 22.10 13.50 6.50 6 The Mighty Grotto
+Roshawnda the Chilly 14.25 12.25 11.25 25.75 5 Caverns of the Gentle Widow
+Round Shuntay 22.75 12.25 8.25 13.25 5 Caverns of the Gentle Widow
+Royal Ronni 10.25 23.35 21.25 21.25 1 The Shrieking Dungeon
+Sarcastic Jammy 13.70 6.50 8.50 7.50 2 The Scorching Cells
+Serene Alvina 16.50 11.50 5.50 18.70 2 The Scorching Cells
+Serra the Kosher 13.70 5.50 12.50 13.50 2 The Scorching Cells
+Shameless Denia 5.00 12.00 10.00 16.00 0 The Dread Catacombs
+Shantoya the Sick 6.25 17.35 12.25 16.25 1 The Shrieking Dungeon
+Shatiya the Revolving 12.25 13.25 20.25 21.35 1 The Shrieking Dungeon
+Shauntavia the Elementary 12.25 17.35 12.25 6.25 1 The Shrieking Dungeon
+Shayvonne the Uncomfortable 21.25 18.75 16.75 13.75 15 Maze of the Forgotten Paladin
+Shenia the Filthy 8.00 14.00 8.00 11.00 0 The Dread Catacombs
+Silky Blakeley 28.75 20.75 40.85 25.75 51 The Halls of Eternal Boomer Humour
+Splendid Alonzo 32.50 18.50 25.50 39.10 46 The Abyss Cells
+Squiggly Marisol 38.10 20.50 30.50 32.50 46 The Abyss Cells
+Staid Nikole 12.00 5.00 7.00 8.00 0 The Dread Catacombs
+Standard Eldon 8.25 8.25 22.35 7.25 1 The Shrieking Dungeon
+Subdued Lev 12.25 29.55 22.25 19.25 13 The Erased Cells
+Summer the Glistening 10.25 13.25 14.25 18.35 1 The Shrieking Dungeon
+Superb Kali 7.00 6.00 5.00 8.00 0 The Dread Catacombs
+Suspicious Neill 11.25 9.25 20.35 18.25 1 The Shrieking Dungeon
+Susy the Rough 6.00 19.00 7.00 11.00 0 The Dread Catacombs
+Tammara the Lighthearted 21.15 8.25 19.25 14.25 9 Maze of the Hidden Orc
+Tanina the Imperturbable 45.50 33.50 23.50 37.50 70 Delves of the Unknown Warrior
+Tanina the Overjoyed 27.75 18.75 39.85 19.75 51 The Halls of Eternal Boomer Humour
+Tarsha the Slimy 21.75 10.25 10.25 11.25 5 Caverns of the Gentle Widow
+Taryn the Ragged 9.25 22.35 16.25 15.25 1 The Shrieking Dungeon
+Teeming Liana 11.25 7.25 17.35 10.25 1 The Shrieking Dungeon
+Teffany the Wrathful 35.10 19.50 29.50 26.50 46 The Abyss Cells
+Thelbert the Severe 11.25 22.35 7.25 10.25 1 The Shrieking Dungeon
+Thick Fabiana 11.25 8.25 7.25 24.35 1 The Shrieking Dungeon
+Thin Tephanie 10.25 6.25 16.25 18.35 1 The Shrieking Dungeon
+Timesha the Delirious 12.00 28.20 18.00 9.00 12 Lair of the Burning Mage
+Tough Hollyn 22.85 7.75 18.75 7.75 11 The Tranquil Dungeon
+Trenika the Feisty 7.00 16.00 10.00 16.00 0 The Dread Catacombs
+Tykia the Legitimate 15.25 9.25 24.15 23.25 9 Maze of the Hidden Orc
+Tyla the Secondary 27.60 15.00 24.00 15.00 16 Pits of the Mystic Knight
+Tyronn the Fitting 12.25 14.25 16.35 13.25 1 The Shrieking Dungeon
+Unconscious Iana 9.25 12.25 22.35 12.25 1 The Shrieking Dungeon
+Unfinished Jeana 10.25 22.35 19.25 17.25 1 The Shrieking Dungeon
+Unknown Nikcole 21.15 12.25 19.25 12.25 9 Maze of the Hidden Orc
+Unnatural Rick 12.25 10.25 21.35 5.25 1 The Shrieking Dungeon
+Untried Randolph 8.25 16.35 16.25 12.25 1 The Shrieking Dungeon
+Unwilling Brianna 22.25 18.75 15.75 9.75 15 Maze of the Forgotten Paladin
+Upbeat Trey 9.25 29.55 14.25 19.25 13 The Erased Cells
+Vallerie the Elaborate 20.75 9.75 7.75 23.05 3 The Thundering Chambers
+Wasteful Shenika 5.25 14.25 23.35 5.25 1 The Shrieking Dungeon
+Well-lit Jesselee 5.25 6.25 18.35 18.25 1 The Shrieking Dungeon
+Wrong Daquita 37.95 14.25 20.25 22.25 37 Grotto of the Unspoken Priest
+Yusef the Filthy 43.50 32.50 22.50 32.50 70 Delves of the Unknown Warrior

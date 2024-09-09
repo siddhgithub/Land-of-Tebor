@@ -1,0 +1,133 @@
+# Siddharth -- Check Lab 10 Code Ouputs
+
+stages:
+    - setup
+    - build
+    - test
+
+check-file-structure:
+    stage: setup
+    tags:
+        - ugrad
+    script:
+        - test -d Lab10
+        - test -d Lab10/adventure
+        - test -d Lab10/adventure/lib
+        - test -d Lab10/deusex
+        - test -d Lab10/deusex/lib
+        - test -f Lab10/adventure/lib/array_list.c
+        - test -f Lab10/adventure/lib/array_list.h
+        - test -f Lab10/adventure/lib/heap.c
+        - test -f Lab10/adventure/lib/heap.h
+        - test -f Lab10/adventure/adventuretype.c
+        - test -f Lab10/adventure/adventuretype.h
+        - test -f Lab10/adventure/heroes.c
+        - test -f Lab10/adventure/heroes.h
+        - test -f Lab10/adventure/locations.c
+        - test -f Lab10/adventure/locations.h
+        - test -f Lab10/adventure/main.c
+        - test -f Lab10/adventure/simulation.c
+        - test -f Lab10/adventure/simulation.h
+        - test -f Lab10/adventure/Makefile
+        - test -f Lab10/deusex/lib/array_list.c
+        - test -f Lab10/deusex/lib/array_list.h
+        - test -f Lab10/deusex/lib/heap.c
+        - test -f Lab10/deusex/lib/heap.h
+        - test -f Lab10/deusex/adventuretype.c
+        - test -f Lab10/deusex/adventuretype.h
+        - test -f Lab10/deusex/heroes.c
+        - test -f Lab10/deusex/heroes.h
+        - test -f Lab10/deusex/locations.c
+        - test -f Lab10/deusex/locations.h
+        - test -f Lab10/deusex/main.c
+        - test -f Lab10/deusex/simulation.c
+        - test -f Lab10/deusex/simulation.h
+        - test -f Lab10/deusex/Makefile
+        
+run-adventure:
+    stage: test
+    tags:
+        - ugrad
+    script:
+        - cp CI/objects/adventure/* Lab10/adventure/
+        - cd Lab10/adventure/
+        - test -f locations.lot
+        - test -f heroes.lot
+        - test -f example_charm_dead_out.txt
+        - test -f example_charm_live_out.txt
+        - test -f example_level_dead_out.txt
+        - test -f example_level_live_out.txt
+        - test -f example_power_dead_out.txt
+        - test -f example_power_live_out.txt
+        - test -f example_strategy_dead_out.txt
+        - test -f example_strategy_live_out.txt
+        - test -f example_subtlety_dead_out.txt
+        - test -f example_subtlety_live_out.txt
+        - rm -f *.o adventure
+        - make
+        - test -f array_list.o
+        - test -f heap.o
+        - test -f adventuretype.o
+        - test -f heroes.o
+        - test -f locations.o
+        - test -f main.o
+        - test -f simulation.o
+        - test -f adventure
+        - ./adventure 5 charm
+        - sleep 2
+        - ./adventure 6 level
+        - sleep 2
+        - ./adventure 7 power
+        - sleep 2
+        - ./adventure 8 strategy
+        - sleep 2
+        - ./adventure 1 subtlety
+        - sleep 2
+        - ./adventure 2 subtlety
+        - sleep 2
+        - ./adventure 3 subtlety
+        - sleep 2
+        - ./adventure 4 subtlety
+        - sleep 2
+        - ./adventure 5 subtlety
+        - sleep 2
+        - ./adventure 6 subtlety
+        - sleep 2
+        - ./adventure 7 subtlety
+        - sleep 2
+        - ./adventure 8 subtlety
+        - sleep 2
+        - ./adventure 9 subtlety
+        - sleep 2
+        - ./adventure 10 subtlety
+        - chmod 755 ../../CI/compare_adventure_output.sh
+        - ../../CI/compare_adventure_output.sh
+    timeout: 40s
+
+run-deusex:
+    stage: test
+    tags:
+        - ugrad
+    script:
+        - cp CI/objects/deusex/* Lab10/deusex/
+        - cp CI/objects/adventure/*.lot Lab10/deusex/
+        - cd Lab10/deusex/
+        - test -f locations.lot
+        - test -f heroes.lot
+        - test -f example_deusex_dead_out.txt
+        - test -f example_deusex_live_out.txt
+        - rm -f *.o deusex
+        - make
+        - test -f array_list.o
+        - test -f heap.o
+        - test -f adventuretype.o
+        - test -f heroes.o
+        - test -f locations.o
+        - test -f main.o
+        - test -f simulation.o
+        - test -f deusex
+        - ./deusex 7 
+        - sleep 2
+        - chmod 755 ../../CI/compare_deusex_output.sh
+        - ../../CI/compare_deusex_output.sh
+    timeout: 20s
